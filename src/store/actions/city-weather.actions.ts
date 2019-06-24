@@ -1,5 +1,5 @@
 import {Action} from '@ngrx/store';
-import { CityWeatherModel } from 'src/app/models/city-weather.model';
+import { CityWeatherModel } from '../../models/city-weather.model';
 
 
 export const LOAD_WEATHER_DATA = '[CityWeather] Load Weather Data';
